@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hey there 👋
 
-<!--
-**Saishaktiraolendale/saishaktiraolendale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Shakti, a Health Informatics graduate and Research Analyst at Indiana University School of Medicine.
 
-Here are some ideas to get you started:
+I work on data-driven healthcare problems, especially in Alzheimer’s disease, neuroimaging, and multi-omics analysis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If there’s data, I’m curious to explore it, model it, and turn it into meaningful insights.
+
+---
+
+### 💡 What I Do
+- Analyze clinical and genomic data to understand disease patterns  
+- Work on multi-omics + MRI data for Alzheimer’s research  
+- Build data pipelines, visualizations, and machine learning models  
+- Translate complex data into insights for clinical decision-making  
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, R, SQL, SAS  
+- **Data & ML:** Pandas, scikit-learn, DESeq2, WGCNA  
+- **Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
+- **Tools:** GitHub, Docker, Postman, FHIR APIs  
+
+---
+
+### 🚀 Current Focus
+- AI/ML in healthcare and clinical decision support  
+- Brain aging and Alzheimer’s biomarker analysis  
+- Scalable data workflows for healthcare analytics  
+
+---
+
+### 📊 Fun Facts
+- I enjoy working out and boxing 🥊  
+- I love exploring new technologies and research ideas  
+- Always learning something new every day  
+
+---
+
+### 📌 Featured Projects
+- 🧠 Alzheimer’s Brain Age Analysis (multi-omics + MRI)
+- 🔗 SMART on FHIR Clinical App (SMARTLiver)
+- 📦 MIMIC-IV to OpenEMR ETL Pipeline  
+
+---
+
+If you want to collaborate, discuss research, or just talk about data & healthcare — feel free to connect!
